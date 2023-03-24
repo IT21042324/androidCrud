@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="loginLabel">Login</string>
+    <string name="unLabel">UserName</string>
+    <string name="Password">Password</string>
+    <string name="pwdLabel">Password</string>
+</resources>
